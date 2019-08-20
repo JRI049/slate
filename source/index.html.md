@@ -19,7 +19,7 @@ search: true
 
 # Introduction
 
- Welcome to the Maersk developer community. Below you will find all of the documentation to guide you through a successful integration with our APIs.
+Welcome to the Maersk developer community. Below you will find all of the documentation to guide you through a successful integration with our APIs.
 
 For API keys, troubleshooting or just a general chat. Please get in touch with the Maersk API team at api@maersk.com 
 
