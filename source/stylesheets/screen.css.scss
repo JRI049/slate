@@ -36,6 +36,11 @@ html, body {
   -webkit-text-size-adjust: none; /* Never autoresize text */
 }
 
+@font-face {
+  font-family: 'MaerskHeadline-Regular';
+  src: url(/home/slate/source/fonts/MaerskHeadline-Regular.woff');
+}
+
 ////////////////////////////////////////////////////////////////////////////////
 // TABLE OF CONTENTS
 ////////////////////////////////////////////////////////////////////////////////
